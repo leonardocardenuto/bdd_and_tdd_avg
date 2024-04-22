@@ -11,4 +11,4 @@ def step_when(context):
 
 @then('o resultado deve ser {resultado:d}')
 def step_then(context, resultado):
-    assert context.resultado == resultado, f"Resultado incorreto. Esperado: {resultado}. Obtido: {context.resultado}"
+    assert context.resultado == resultado, f"Resultado incorreto. Resultado esperado: {resultado}. Resulatdo obtido: {context.resultado}"

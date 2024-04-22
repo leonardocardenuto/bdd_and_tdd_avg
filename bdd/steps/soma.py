@@ -11,4 +11,4 @@ def step_impl(context):
 
 @then('o resultado deve ser {resultado:d}')
 def step_impl(context, resultado):
-  assert context.resultado == resultado, f"Resultado incorreto. Esperado: {resultado}. Obtido: {context.resultado}"
+  assert context.resultado == resultado, f"Resultado incorreto. Resultado esperado: {resultado}. Resultado obtido: {context.resultado}"
