@@ -12,7 +12,7 @@ git clone https://github.com/leonardocardenuto/bdd_and_tdd_avg/
 
 ## 2. Instale as dependências (Talvez seja necessário adicionar a PATH):
 
-> Use o comando para instalar as duas dependências:
+> Use o comando para instalar as duas dependências no PowerShell:
 <br>
 
 ```
