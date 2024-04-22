@@ -19,18 +19,20 @@ git clone https://github.com/leonardocardenuto/bdd_and_tdd_avg/
 pip install pytest && pip install behave
 ```
 
-## 3. Run
+## 3. Run ( PowerShell )
 
 > Para utilizar o módulo de bdd:
 <br>
 
 ```
-cd bdd && behave
+cd bdd
+behave
 ```
 
 > Para utilizar o módulo de tdd:
 <br>
 
 ```
-cd tdd && pytest
+cd tdd
+pytest
 ```
