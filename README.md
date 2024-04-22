@@ -16,7 +16,8 @@ git clone https://github.com/leonardocardenuto/bdd_and_tdd_avg/
 <br>
 
 ```
-pip install pytest && pip install behave
+pip install pytest
+pip install behave
 ```
 
 ## 3. Run ( PowerShell )
