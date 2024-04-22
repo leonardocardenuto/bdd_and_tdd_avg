@@ -22,13 +22,15 @@ pip install pytest && pip install behave
 ## 3. Run
 
 > Para utilizar o módulo de bdd:
+<br>
 
 ```
 cd bdd && behave
 ```
 
 > Para utilizar o módulo de tdd:
+<br>
 
 ```
-cd bdd && behave
+cd tdd && pytest
 ```
